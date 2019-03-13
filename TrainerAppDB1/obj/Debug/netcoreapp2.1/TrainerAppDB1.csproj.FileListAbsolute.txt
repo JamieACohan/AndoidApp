@@ -1,0 +1,11 @@
+C:\Users\Jamie\source\repos\TrainerAppDB1\TrainerAppDB1\bin\Debug\netcoreapp2.1\TrainerAppDB1.deps.json
+C:\Users\Jamie\source\repos\TrainerAppDB1\TrainerAppDB1\bin\Debug\netcoreapp2.1\TrainerAppDB1.runtimeconfig.json
+C:\Users\Jamie\source\repos\TrainerAppDB1\TrainerAppDB1\bin\Debug\netcoreapp2.1\TrainerAppDB1.runtimeconfig.dev.json
+C:\Users\Jamie\source\repos\TrainerAppDB1\TrainerAppDB1\bin\Debug\netcoreapp2.1\TrainerAppDB1.dll
+C:\Users\Jamie\source\repos\TrainerAppDB1\TrainerAppDB1\obj\Debug\netcoreapp2.1\TrainerAppDB1.csprojAssemblyReference.cache
+C:\Users\Jamie\source\repos\TrainerAppDB1\TrainerAppDB1\obj\Debug\netcoreapp2.1\TrainerAppDB1.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\TrainerAppDB1\TrainerAppDB1\obj\Debug\netcoreapp2.1\TrainerAppDB1.AssemblyInfoInputs.cache
+C:\Users\Jamie\source\repos\TrainerAppDB1\TrainerAppDB1\obj\Debug\netcoreapp2.1\TrainerAppDB1.AssemblyInfo.cs
+C:\Users\Jamie\source\repos\TrainerAppDB1\TrainerAppDB1\bin\Debug\netcoreapp2.1\TrainerAppDB1.pdb
+C:\Users\Jamie\source\repos\TrainerAppDB1\TrainerAppDB1\obj\Debug\netcoreapp2.1\TrainerAppDB1.dll
+C:\Users\Jamie\source\repos\TrainerAppDB1\TrainerAppDB1\obj\Debug\netcoreapp2.1\TrainerAppDB1.pdb
